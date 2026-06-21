@@ -60,5 +60,5 @@ Through this project, I learned:
 ## 👩‍💻 Author
 **Sania Aftab**  
 
-GitHub: Add your GitHub profile link here
+GitHub: https://github.com/saniaaftab555-sudo
 LinkedIn: Add your LinkedIn profile link here
