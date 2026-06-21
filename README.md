@@ -61,4 +61,4 @@ Through this project, I learned:
 **Sania Aftab**  
 
 GitHub: https://github.com/saniaaftab555-sudo
-LinkedIn: Add your LinkedIn profile link here
+LinkedIn: www.linkedin.com/in/sania-aftab-80254a288
